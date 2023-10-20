@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "nodemon": "1.0.0",
-    "apollo-server": "2.14.1"
+    "apollo-server": "3.12.1"
   }
 }
